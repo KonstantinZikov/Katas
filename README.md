@@ -1,0 +1,2 @@
+# Katas
+Some katas solutions.
